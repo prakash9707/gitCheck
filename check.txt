@@ -2,6 +2,8 @@ hello mastersss
 feature2 created
 feature1 added
 feature2 added
+master some changes
+
 
 hello there
 master here
