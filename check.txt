@@ -1,6 +1,7 @@
 hello mastersss
 feature2 created
 feature1 added
+master some changes
 
 
 hello there
