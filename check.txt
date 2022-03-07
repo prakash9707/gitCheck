@@ -1,6 +1,7 @@
 hello mastersss
 feature2 created
 feature1 added
+feature2 added
 master some changes
 
 
@@ -11,3 +12,4 @@ master here too
 feature2 one more updated added
 feature 2 added
 master new changes from feature branch new
+feature 2 added
