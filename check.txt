@@ -1,2 +1,3 @@
 hello master
 feature2 added
+feature1 added
