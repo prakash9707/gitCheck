@@ -7,3 +7,4 @@ hello there
 master here
 
 master here too
+master new changes from feature branch new
