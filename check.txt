@@ -2,7 +2,7 @@ hello mastes
 feature2 created
 feature1 added
 feature2 updated
-master some chang-feature3
+master some changes-feature2
 
 
 hello there
