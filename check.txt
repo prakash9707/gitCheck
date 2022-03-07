@@ -1,1 +1,2 @@
 hello master
+feature2 added
